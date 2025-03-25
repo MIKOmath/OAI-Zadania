@@ -5,11 +5,11 @@ Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie 
 
 ## Monety
 - Różnego rodzaju augmentacje (rotacja, color jitter, odbicie, etc.)
-- Circle Hought Transform - [100_monety_d](II-OAI/1 etap/1. monety/100_monety_d.ipynb)
-- Podział na różne etapy (detekcja tła, klasyfikacja monet, regresja bounding boxów) - [64_monety_b.ipynb](II-OAI/1 etap/1. monety/64_monety_b.ipynb)
-- Segmentacja tło/moneta, detekcja monet (BFS), klasyfikacja monet - [72_monety_a](II-OAI/1 etap/1. monety/72_monety_a.ipynb)
-- FasterRCNN - [78_monety_g](II-OAI/1 etap/1. monety/78_monety_g.ipynb), [94_monety_f](II-OAI/1 etap/1. monety/94_monety_f.ipynb), [95_monety_j.ipynb](II-OAI/1 etap/1. monety/95_monety_j.ipynb), [100_monety_e](II-OAI/1 etap/1. monety/100_monety_e.ipynb)
-- ssd300_vgg16 - [80_monety_c.ipynb](II-OAI/1 etap/1. monety/80_monety_c.ipynb)
+- Circle Hought Transform - [100_monety_d](II-OAI/1%etap/1.%monety/100_monety_d.ipynb)
+- Podział na różne etapy (detekcja tła, klasyfikacja monet, regresja bounding boxów) - [64_monety_b.ipynb](II-OAI/1%etap/1.%monety/64_monety_b.ipynb)
+- Segmentacja tło/moneta, detekcja monet (BFS), klasyfikacja monet - [72_monety_a](II-OAI/1%etap/1.%monety/72_monety_a.ipynb)
+- FasterRCNN - [78_monety_g](II-OAI/1%etap/1.%monety/78_monety_g.ipynb), [94_monety_f](II-OAI/1%etap/1.%monety/94_monety_f.ipynb), [95_monety_j.ipynb](II-OAI/1%etap/1.%monety/95_monety_j.ipynb), [100_monety_e](II-OAI/1%etap/1.%monety/100_monety_e.ipynb)
+- ssd300_vgg16 - [80_monety_c.ipynb](II-OAI/1%etap/1.%monety/80_monety_c.ipynb)
 
 ## Halucynacje
 - Cechy: dane statyczne prawdopodobieństw (skew, kurtosis, median, kwantyl, max, min, entropy, std, etc.), dane statyczne overlapingu odpowiedzi (między main-supporting, supporting-supporting, po tokenach, bigram, słownie, etc.), długość odpowiedzi, dane statyczne na temat liczb, tfidf vectorize (cosine similarity, pca) (i wiele więcej w poszczególnych rozwiązaniach)
