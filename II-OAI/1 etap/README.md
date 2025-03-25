@@ -13,7 +13,7 @@ Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie 
 
 ## Halucynacje
 - Cechy: dane statyczne prawdopodobieństw (skew, kurtosis, median, kwantyl, max, min, entropy, std, etc.), dane statyczne overlapingu odpowiedzi (między main-supporting, supporting-supporting, po tokenach, bigram, słownie, etc.), długość odpowiedzi, dane statyczne na temat liczb, tfidf vectorize (cosine similarity, pca) (i wiele więcej w poszczególnych rozwiązaniach)
-- XGBClassifier - [68_halucynacje_f.ipynb](II-OAI/1%etap/2.%halucynacje/68_halucynacje_f.ipynb), [76_halucynacje_b.ipynb](II-OAI/1%etap/2.%halucynacje/76_halucynacje_b.ipynb), [76_halucynacje_c.ipynb](II-OAI/1%etap/2.%halucynacje/76_halucynacje_c.ipynb), [81_halucynacje_a.ipynb](II-OAI/1%etap/2.%halucynacje/81_halucynacje_a.ipynb), [95_halucynacje_e.ipynb](II-OAI/1%etap/2.%halucynacje/95_halucynacje_e.ipynb)
+- XGBClassifier - [68_halucynacje_f.ipynb](II-OAI/1%etap/2.%halucynacje/68_halucynacje_f.ipynb), [76_halucynacje_b.ipynb](II-OAI/1%etap/2.%halucynacje/76_halucynacje_b.ipynb), [76_halucynacje_c.ipynb](II-OAI/1%etap/2.%halucynacje/76_halucynacje_c.ipynb), [81_halucynacje_a.ipynb](II-OAI/1%etap/2.%halucynacje/81_halucynacje_a.ipynb), [95_halucynacje_e.ipynb](II-OAI/1%etap/2.%halucynacje/95_halucynacje_e.ipynb), [100_halucynacje_p.ipynb](II-OAI/1%etap/2.%halucynacje/100_halucynacje_p.ipynb)
 - models ensemble (XGBClassifier, RandomForestClassifier, LogisticRegression, etc.) - [73_halucynacje_k.ipynb](II-OAI/1%etap/2.%halucynacje/73_halucynacje_k.ipynb), [90_halucynacje_g.ipynb](II-OAI/1%etap/2.%halucynacje/90_halucynacje_g.ipynb) (2 xgboost classifiers), 
 
 ## EKG
