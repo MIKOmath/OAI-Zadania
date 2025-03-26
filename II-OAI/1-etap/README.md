@@ -25,7 +25,7 @@ Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie 
 - [JoCoR](https://arxiv.org/pdf/2003.02752) - [100_szum_g.ipynb](2.szum/100_szum_g.ipynb)
 
 ## Podciągi
-Ponieważ zbiór miał moc 3 można było robić regresje lub klasyfikacje (8 elementów).
+Ponieważ zbiór W miał moc 3 można było robić regresje lub klasyfikacje (8 elementów).
 - GRU + warstwy/a liniowe/a - [88_podciagi_k.ipynb](5.podciagi//88_podciagi_k.ipynb), [99_podciagi_a.ipynb](5.podciagi//99_podciagi_a.ipynb), [100_podciagi_f.ipynb](5.podciagi//100_podciagi_f.ipynb)
 - Conv + MLP - [81_podciagi_c.ipynb](5.podciagi//81_podciagi_c.ipynb), [82_podciagi_b.ipynb](5.podciagi//82_podciagi_b.ipynb)
 - LSTM - [97_podciagi_g.ipynb](5.podciagi//97_podciagi_g.ipynb), [99_podciagi_i.ipynb](5.podciagi//99_podciagi_i.ipynb)
