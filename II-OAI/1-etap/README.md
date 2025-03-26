@@ -5,7 +5,7 @@ Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie 
 
 ## Monety
 - Różnego rodzaju augmentacje (rotacja, color jitter, odbicie, etc.)
-- Circle Hought Transform - [100_monety_d.ipynb](1.%monety/100_monety_d.ipynb)
+- Circle Hought Transform - [100_monety_d.ipynb](1.monety/100_monety_d.ipynb)
 - Podział na różne etapy (detekcja tła, klasyfikacja monet, regresja bounding boxów) - [64_monety_b.ipynb](II-OAI/1%etap/1.%monety/64_monety_b.ipynb)
 - Segmentacja tło/moneta, detekcja monet (BFS), klasyfikacja monet - [72_monety_a.ipynb](II-OAI/1%etap/1.%monety/72_monety_a.ipynb)
 - FasterRCNN - [78_monety_g.ipynb](II-OAI/1%etap/1.%monety/78_monety_g.ipynb), [94_monety_f.ipynb](II-OAI/1%etap/1.%monety/94_monety_f.ipynb), [95_monety_j.ipynb](II-OAI/1%etap/1.%monety/95_monety_j.ipynb), [100_monety_e.ipynb](II-OAI/1%etap/1.%monety/100_monety_e.ipynb)
