@@ -18,7 +18,7 @@ Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie 
 
 ## EKG
 - Cechy: max, min sygnału, średnia fft sygnału, wartości statystyczne pochodnej sygnału, konkretne indeksy (w odległości od maximum/minimum) sygnału po konwolucji, płaskość piku, energia fali, wysokośc pików po lewej i prawej stronie zespołu QRS, itp. 
-- Detekcja PQRS i liczenie cech w oparciu o to - [II-OAI/1%etap/3.%ekg/100_ekg_e.ipynb](3. ekg/100_ekg_e.ipynb)
+- Detekcja PQRS i liczenie cech w oparciu o to - [ekg/100_ekg_e.ipynb](II-OAI/1%etap/3.%ekg/100_ekg_e.ipynb)
 
 ## Szum
 - Samplowanie części batcha/balansowanie danych + sortowanie po lossie - [100_szum_b.ipynb](II-OAI/1%etap/2.%szum/100_szum_b.ipynb), [100_szum_c.ipynb](II-OAI/1%etap/2.%szum/100_szum_c.ipynb), [100_szum_e.ipynb](II-OAI/1%etap/2.%szum/100_szum_e.ipynb), [100_szum_f.ipynb](II-OAI/1%etap/2.%szum/100_szum_f.ipynb) (quantile, not sort), [100_szum_k.ipynb](II-OAI/1%etap/2.%szum/100_szum_k.ipynb), [100_szum_n.ipynb](II-OAI/1%etap/2.%szum/100_szum_n.ipynb), [100_szum_o.ipynb](II-OAI/1%etap/2.%szum/100_szum_o.ipynb)
