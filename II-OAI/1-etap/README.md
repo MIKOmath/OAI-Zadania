@@ -21,8 +21,8 @@ Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie 
 - Detekcja PQRS i liczenie cech w oparciu o to - [ekg/100_ekg_e.ipynb](3.ekg/100_ekg_e.ipynb)
 
 ## Szum
-- Samplowanie części batcha/balansowanie danych + sortowanie po lossie - [100_szum_b.ipynb](2.szum/100_szum_b.ipynb), [100_szum_c.ipynb](2.szum/100_szum_c.ipynb), [100_szum_e.ipynb](2.szum/100_szum_e.ipynb), [100_szum_f.ipynb](2.szum/100_szum_f.ipynb) (quantile, not sort), [100_szum_k.ipynb](2.szum/100_szum_k.ipynb), [100_szum_n.ipynb](2.szum/100_szum_n.ipynb), [100_szum_o.ipynb](2.szum/100_szum_o.ipynb)
-- [JoCoR](https://arxiv.org/pdf/2003.02752) - [100_szum_g.ipynb](2.szum/100_szum_g.ipynb)
+- Samplowanie części batcha/balansowanie danych + sortowanie po lossie - [100_szum_b.ipynb](4.szum/100_szum_b.ipynb), [100_szum_c.ipynb](4.szum/100_szum_c.ipynb), [100_szum_e.ipynb](4.szum/100_szum_e.ipynb), [100_szum_f.ipynb](4.szum/100_szum_f.ipynb) (quantile, not sort), [100_szum_k.ipynb](4.szum/100_szum_k.ipynb), [100_szum_n.ipynb](4.szum/100_szum_n.ipynb), [100_szum_o.ipynb](4.szum/100_szum_o.ipynb)
+- [JoCoR](https://arxiv.org/pdf/2003.02752) - [100_szum_g.ipynb](4.szum/100_szum_g.ipynb)
 
 ## Podciągi
 Ponieważ zbiór W miał moc 3 można było robić regresje lub klasyfikacje (8 elementów).
