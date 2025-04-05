@@ -1,11 +1,11 @@
 # Zadania
 Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie walidacyjnym)
 
-## Zadania z I etapu - [link](https://github.com/OlimpiadaAI/II-OlimpiadaAI/tree/main/1_etap)
+Zadania z I etapu - [link](https://github.com/OlimpiadaAI/II-OlimpiadaAI/tree/main/1_etap)
 
 # Oficjalne wzorcowe rozwiązania
 1. Monety
-2. [Halucynacje](https://github.com/OlimpiadaAI/II-OlimpiadaAI/blob/main/1_etap/2_wykrywanie_halucynacji/2_wykrywanie_halucynacji_modelowe_rozwiazanie.ipynb)
+2. [Halucynacje](https://github.com/OlimpiadaAI/II-OlimpiadaAI/blob/main/1_etap/2_wykrywanie_halucynacji/2_wykrywanie_halucynacji_modelowe_rozwiazanie.ipynb) - 95/100
 3. EKG
 4. Szum
 5. Podciągi
