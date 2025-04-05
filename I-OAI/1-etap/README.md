@@ -1,0 +1,1 @@
+# [Zadania z I etapu](https://github.com/OlimpiadaAI/I-OlimpiadaAI/tree/main/first_stage)

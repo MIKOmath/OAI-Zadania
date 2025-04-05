@@ -1,0 +1,1 @@
+# [Zadania z Finału](https://github.com/OlimpiadaAI/I-OlimpiadaAI/tree/main/final_stage)
