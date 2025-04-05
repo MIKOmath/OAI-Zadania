@@ -1,6 +1,6 @@
-# TODO
+# TODO (In progress):
 
-# Materiały/Czego się uczyć
+# Materiały
 
 [sylabus ioai 2025](https://ioai-official.org/syllabus-2025/)
 
@@ -10,4 +10,4 @@
 
 ## Książki
 
-## 
+## ...
