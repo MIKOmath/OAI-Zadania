@@ -1,7 +1,7 @@
 # Zadania
 Na początku nazwy pliku znajduje się liczba punktów na testowym zbiorze (nie walidacyjnym)
 
-# [Zadania z I etapu](https://github.com/OlimpiadaAI/II-OlimpiadaAI/tree/main/1_etap)
+## Zadania z I etapu - [link](https://github.com/OlimpiadaAI/II-OlimpiadaAI/tree/main/1_etap)
 
 # Oficjalne wzorcowe rozwiązania
 1. Monety
