@@ -1,6 +1,8 @@
 # Rozwiązania zadań z Olimpiady Stucznej Inteligencji
 Przykładowe Rozwiązania zadań z Olimpiady Stucznej Inteligencji (Nieoficjalne)
+
 [I-OAI/1 etap](I-OAI/1-etap) | [I-OAI/finał](I-OAI/final)
+
 [II-OAI/1 etap](II-OAI/1-etap)
 
 Na początku nazwy notebooka/folderu znajduje się liczba punktów na zbiorze testowym (bez przecinka, więc 1,34 to 134_...ipynb jak i 95 to 095_...ipynb)
