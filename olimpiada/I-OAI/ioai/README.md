@@ -1,1 +1,0 @@
-# Rozwiązania wzorcowe można znaleźć na stronie organizatora - [link do ioai](https://ioai-official.org/problems/)
