@@ -9,6 +9,3 @@ Na początku nazwy notebooka/folderu znajduje się liczba punktów na zbiorze te
 
 ## Podziękowania
 Podziękowania dla wszystkich osób z MIKO, które podzieliły się swoimi rozwiązaniami. Jeśli chcesz zmienić coś w jakimś rozwiązaniu (np. naprawić błąd, dodać opis, dodać poprzedni/następny etap itp.), utwórz issue / pull request lub napisz do mnie na discordzie (Indoxer).
-
-## Warto zobaczyć/przeczytać
-- prz
